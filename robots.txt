@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://calantmo.github.io/sitemap.html.gz
+Sitemap: https://calantmo.github.io/app/sitemap.html.gz
+Sitemap: https://calantmo.github.io/assets/sitemap.html.gz
+Sitemap: https://calantmo.github.io/css/sitemap.html.gz
+Sitemap: https://calantmo.github.io/includes/sitemap.html.gz
+Sitemap: https://calantmo.github.io/item/sitemap.html.gz
+Sitemap: https://calantmo.github.io/src/sitemap.html.gz
